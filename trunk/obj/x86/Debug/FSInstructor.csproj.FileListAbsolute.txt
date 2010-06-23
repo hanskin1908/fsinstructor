@@ -1,0 +1,5 @@
+D:\Trabajo\Informatica\Desarrollo\FSInstructor\bin\Debug\FSInstructor.exe
+D:\Trabajo\Informatica\Desarrollo\FSInstructor\bin\Debug\FSInstructor.pdb
+D:\Trabajo\Informatica\Desarrollo\FSInstructor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Trabajo\Informatica\Desarrollo\FSInstructor\obj\x86\Debug\FSInstructor.exe
+D:\Trabajo\Informatica\Desarrollo\FSInstructor\obj\x86\Debug\FSInstructor.pdb
