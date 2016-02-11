@@ -1,0 +1,1 @@
+That's an instructor app that allows someone with a little training to control some aspects of the simulator
